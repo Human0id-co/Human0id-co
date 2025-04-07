@@ -1,23 +1,37 @@
-# Hi, I'm Aji 👋
-I'm a **Full Stack Web Developer** from Indonesia, passionate about building web applications with **Laravel**, **MySQL**, and **modern frontend tools**.
+# Hi, I'm Aji 👋  
+I'm a **Full Stack Developer** and **Laravel Enthusiast** from Indonesia 🇮🇩
 
 ---
 
-## 🔧 Tech Stack
-- 🌐 PHP, Laravel
-- 💾 MySQL, Laragon, Navicat
-- 🎨 HTML, CSS, Tailwind, Bootstrap
-- 🛠️ Git, GitHub, VSCode, Postman
+## 💻 About Me
+
+Saya adalah seorang full stack developer yang fokus membangun aplikasi web menggunakan **Laravel**, **MySQL**, dan **CSS**.  
+Saya senang membuat solusi digital yang efisien, clean, dan mudah digunakan.
 
 ---
 
-## 📂 Portfolio Projects
-- [Sistem Booking Lapangan Futsal]()
+## 🛠️ Tech Stack
 
-> *(Project lainnya akan ditambahkan seiring waktu)*
+- ⚙️ PHP, Laravel
+- 🛢️ MySQL
+- 🎨 HTML, CSS, Bootstrap
+- 🔧 Git, GitHub, VSCode, Postman
+
+---
+
+## 🚀 Portfolio Projects
+> (Akan diupdate seiring waktu)
+
+- [📦 Booking Lapangan Futsal (Laravel)](https://github.com/Human0id-co/booking-lapangan)
+- [📰 Laravel Blog CMS](https://github.com/Human0id-co/laravel-blog-cms)
 
 ---
 
 ## 📫 Contact Me
-- LinkedIn: [linkedin.com/in/](https://linkedin.com/in/)
-- Email: aji.chandra58@gmail.com
+
+- Email: **aji.chandra58@gmail.com**
+- LinkedIn: *(akan ditambahkan di sini setelah profil jadi)*
+
+---
+
+### 🚧 *More projects and updates coming soon...*
