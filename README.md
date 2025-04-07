@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aji 👋
+I'm a **Full Stack Web Developer** from Indonesia, passionate about building web applications with **Laravel**, **MySQL**, and **modern frontend tools**.
 
-<!--
-**Human0id-co/Human0id-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 🌐 PHP, Laravel
+- 💾 MySQL, Laragon, Navicat
+- 🎨 HTML, CSS, Tailwind, Bootstrap
+- 🛠️ Git, GitHub, VSCode, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Portfolio Projects
+- [Sistem Booking Lapangan Futsal]()
+
+> *(Project lainnya akan ditambahkan seiring waktu)*
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [linkedin.com/in/](https://linkedin.com/in/)
+- Email: aji.chandra58@gmail.com
