@@ -30,7 +30,7 @@ Saya senang membuat solusi digital yang efisien, clean, dan mudah digunakan.
 ## 📫 Contact Me
 
 - Email: **aji.chandra58@gmail.com**
-- LinkedIn: *(akan ditambahkan di sini setelah profil jadi)*
+- LinkedIn: **https://www.linkedin.com/in/aji-condro-saputro-336551326/**
 
 ---
 
